@@ -1,0 +1,7 @@
+{
+  "name": "Convite do Adolpho",
+  "description": "Um convite interativo e personalizado para a festa do cachorrinho Adolpho, com captura de foto e mensagens personalizadas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
